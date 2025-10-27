@@ -91,7 +91,7 @@ function App() {
             <section className="items">
                 <h4>Jersey Shop Made with React JS</h4>
                 
-                <div className="product selected">
+                <div className="product selected" >
                     <div className="photo">
                         <img src="././img/real_madrid.webp" />
                     </div>
